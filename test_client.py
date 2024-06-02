@@ -1,7 +1,7 @@
 import requests
 
 # Define the URL of your Flask API endpoint
-url = "http://127.0.0.1:5000/analyze"
+url = "http://0.0.0.0:5000/analyze"
 
 # Define the input data
 data = {
